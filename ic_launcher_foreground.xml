@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Grid Lines -->
+    <path
+        android:pathData="M43,26 L43,82 M65,26 L65,82 M26,43 L82,43 M26,65 L82,65"
+        android:strokeWidth="3.5"
+        android:strokeColor="#4A3E6D"
+        android:strokeLineCap="round" />
+    
+    <!-- Neon Cyan X (Top Left) -->
+    <path
+        android:pathData="M29,29 L39,39 M39,29 L29,39"
+        android:strokeWidth="4"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+
+    <!-- Neon Pink O (Center) -->
+    <path
+        android:pathData="M54,48 C57.31,48 60,50.69 60,54 C60,57.31 57.31,60 54,60 C50.69,60 48,57.31 48,54 C48,50.69 50.69,48 54,48 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FF2A85"
+        android:fillColor="#00000000" />
+
+    <!-- Neon Cyan X (Bottom Right) -->
+    <path
+        android:pathData="M69,69 L79,79 M79,69 L69,79"
+        android:strokeWidth="4"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+        
+    <!-- Neon Pink O (Top Right) -->
+    <path
+        android:pathData="M74,28 C76.76,28 79,30.24 79,33 C79,35.76 76.76,38 74,38 C71.24,38 69,35.76 69,33 C69,30.24 71.24,28 74,28 Z"
+        android:strokeWidth="3"
+        android:strokeColor="#FF2A85"
+        android:fillColor="#00000000" />
+</vector>
